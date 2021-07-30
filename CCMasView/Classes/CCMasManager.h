@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface CCMasManager : NSObject
-
++ (UIView *)manager;
 @end
 
 NS_ASSUME_NONNULL_END

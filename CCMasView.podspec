@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/a532010870@qq.com/CCMasView'
+  s.homepage         = 'https://github.com/CoderCurry/CCMasTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'a532010870@qq.com' => 'zhangjianjun@innotechx.com' }
-  s.source           = { :git => 'https://github.com/a532010870@qq.com/CCMasView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/CoderCurry/CCMasTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
@@ -38,5 +38,6 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'Masonry', '~> 1.1.0'
 end
+

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of CCMasView.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/a532010870@qq.com/CCMasView",
+  "homepage": "https://github.com/CoderCurry/CCMasTest",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "a532010870@qq.com": "zhangjianjun@innotechx.com"
   },
   "source": {
-    "git": "https://github.com/a532010870@qq.com/CCMasView.git",
+    "git": "https://github.com/CoderCurry/CCMasTest.git",
     "tag": "0.1.0"
   },
   "platforms": {
