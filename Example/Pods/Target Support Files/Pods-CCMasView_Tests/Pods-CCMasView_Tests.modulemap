@@ -1,0 +1,6 @@
+framework module Pods_CCMasView_Tests {
+  umbrella header "Pods-CCMasView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

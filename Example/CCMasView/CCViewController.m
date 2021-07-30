@@ -7,6 +7,7 @@
 //
 
 #import "CCViewController.h"
+#import <CCMasView/CCMasManager.h>
 
 @interface CCViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    UIView *view = [CCMasManager manager];
+    [self.view addSubview:view];
 }
 
 - (void)didReceiveMemoryWarning

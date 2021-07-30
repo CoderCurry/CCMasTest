@@ -1,0 +1,23 @@
+PODS:
+  - CCMasView (0.1.0):
+    - Masonry (~> 1.1.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CCMasView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  CCMasView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCMasView: 5ad4b9cb954891741d7642d5a7c69a6b286c76d7
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: c5d0291a8e344581729ca1b849e2e956b2b8e373
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,27 @@
+{
+  "name": "CCMasView",
+  "version": "0.1.0",
+  "summary": "A short description of CCMasView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/a532010870@qq.com/CCMasView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "a532010870@qq.com": "zhangjianjun@innotechx.com"
+  },
+  "source": {
+    "git": "https://github.com/a532010870@qq.com/CCMasView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CCMasView/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+      "~> 1.1.0"
+    ]
+  }
+}

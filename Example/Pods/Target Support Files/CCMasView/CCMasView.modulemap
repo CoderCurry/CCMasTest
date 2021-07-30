@@ -1,0 +1,6 @@
+framework module CCMasView {
+  umbrella header "CCMasView-umbrella.h"
+
+  export *
+  module * { export * }
+}

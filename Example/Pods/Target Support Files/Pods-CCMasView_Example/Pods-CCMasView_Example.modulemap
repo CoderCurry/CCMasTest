@@ -1,0 +1,6 @@
+framework module Pods_CCMasView_Example {
+  umbrella header "Pods-CCMasView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
